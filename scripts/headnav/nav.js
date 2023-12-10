@@ -1,0 +1,1 @@
+document.write('<header> <div class="header-content"> <a href="vault/vault.html"> <img src="images/pfp.png"> </a> <h1>luke.tf</h1><br> <a href="index.html" class="nav-button" >Home</a> <a href="about.html" class="nav-button" >About</a> <a href="social.html" class="nav-button" >Socials</a> </div> </header>');
