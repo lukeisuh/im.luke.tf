@@ -42,6 +42,12 @@ header img {
 
 .button-container {
     display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.button-container {
+    display: flex;
     justify-content: center;
     margin-top: 10px;
 }
@@ -71,11 +77,49 @@ button {
     font-size: 16px;
     transition: background-color 0.3s ease-in-out;
     display: inline-block;
-    margin-right: 0px;
-    margin-left: 20px;
+	margin-right: 0px;
+	margin-left: 20px
+}
+
+.social-buttons {
+    text-decoration: none;
+    background-color: #0f0f0f;
+    color: #fff;
+    padding: 1rem 2rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease-in-out;
+    display: inline-block;
+	margin-right: 0px;
+	margin-left: 20px
+}
+
+.nav-button:hover {
+    background-color: #161616;
+}
+
+.subtitle {
+    color: #ffffff;
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-left: 390px;
+    margin-right: auto;
+    width: max-content;
+}
+
+.italic {
+    font-style: italic;
 }
 
 
+.center {
+    text-align: center;
+}
 @media only screen and (max-width: 600px) {
     .nav-button {
         padding: 0.5rem 1;
