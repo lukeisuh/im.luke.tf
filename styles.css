@@ -1,0 +1,122 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #0f0f0f;
+}
+
+header {
+    font-family: Arial, sans-serif;
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    padding: 1rem;
+}
+
+header img {
+    width: 50px;
+    height: auto;
+    margin-right: 10px;
+}
+
+.header-content {
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+}
+
+.header-content img {
+    font-family: Arial, sans-serif;
+    width: 50px;
+    height: auto;
+    margin-right: 10px;
+}
+
+.header-content h1 {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    flex: 0 1 auto;
+    text-align: center;
+}
+
+.button-container {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+main {
+    color: #ffffff;
+    padding: 2rem;
+    text-align: center;
+}
+
+button {
+    padding: 0.5rem 1rem;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.nav-button {
+    text-decoration: none;
+    background-color: #0f0f0f;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease-in-out;
+    display: inline-block;
+	margin-right: 0px;
+	margin-left: 20px
+}
+
+.social-buttons {
+    text-decoration: none;
+    background-color: #0f0f0f;
+    color: #fff;
+    padding: 1rem 2rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease-in-out;
+    display: inline-block;
+	margin-right: 0px;
+	margin-left: 20px
+}
+
+.nav-button:hover {
+    background-color: #161616;
+}
+
+.subtitle {
+    color: #ffffff;
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-left: 390px;
+    margin-right: auto;
+    width: max-content;
+}
+
+.italic {
+    font-style: italic;
+}
+
+
+.center {
+    text-align: center;
+}
