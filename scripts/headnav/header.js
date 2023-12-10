@@ -1,1 +1,1 @@
-document.write('<head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>luke.tf</title> <link rel="icon" type="image/x-icon" href="images/pfp.png"> <link rel="stylesheet" href="styles.css"> </head>');
+document.write('<head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>luke.tf</title> <link rel="icon" type="image/x-icon" href="images/pfp.png"> <link rel="stylesheet" href="css/main.css"> </head>');
