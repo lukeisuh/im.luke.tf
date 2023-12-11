@@ -89,7 +89,7 @@ button {
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    font-size: 16px;
+    font-size: 50px;
     transition: background-color 0.3s ease-in-out;
     display: inline-block;
 	margin-right: 0px;
@@ -114,6 +114,18 @@ button {
 
 .italic {
     font-style: italic;
+}
+
+.bigest {
+    font-size: 70px;
+}
+
+.big {
+    font-size: 40px;
+}
+
+.small {
+    font-size: 20px;
 }
 
 
